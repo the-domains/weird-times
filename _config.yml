@@ -1,0 +1,28 @@
+name: Weird Times
+favicon: null
+layout_spectrum: 0.0016249616164714098
+typography_spectrum: 0.7126458487473428
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9108319005463272
+  lightness: 0.7521048537455499
+  saturation: 0.2028292939066887
+  rhythmicContrast: 0.3363601060118526
+purpose: []
