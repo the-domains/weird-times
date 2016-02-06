@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Weird Times]]></title>
         <description><![CDATA[Weird Times]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/weird-times/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 02:22:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 06 Feb 2016 02:38:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/weird-times/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://media.breitbart.com/media/2015/10/GettyImages-492828380-640x480.jpg">]]></description>
-            <link>undefined037ed925-9f85-49b7-9ab3-5b95d4a14b35/index.html</link>
+            <title><![CDATA[So Hillary has gotten testy]]></title>
+            <description><![CDATA[<article><h1>So Hillary has gotten testy</h1><p>So Hillary Clinton has gotten a tad testy while insisting that she is a progressive.  After all, she was in favor of the wars in Iraq and Afghanistan, she voted for the Patriot Act and renewing the Patriot Act, she helped remove Gaddafi without thinking through what would happen after, while her husband was President she headed up an epic fail for health care, was in favor of NAFTA which lost over 1 million jobs, was in favor of her husband ending welfare and making poor people even more poor and hungry, and in favor of ending the Glass-Steagall Act which set up the 2008 recession we are still recovering from.  Before she was "sure" she would run for President again (rolls his eyes), she took over $675,000 in speaking fees from Goldman Sacs because, well hey, everyone does it.  So, yeah, I can see her point from the angle that she is either completely delusional or completely corrupt.  Given history, I'm gonna opt for the latter.  And her insistence on being a Progressive begs a question:  Wasn't eight years of the Clintons' "progressive" agenda more than enough?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/97847ad1472415b8413835d06ce9e399b2ab9072.jpg"></article>]]></description>
+            <link>http://media.breitbart.com/media/2015/10/GettyImages-492828380-640x480.jpg</link>
             <guid isPermaLink="false">037ed925-9f85-49b7-9ab3-5b95d4a14b35</guid>
-            <pubDate>Sat, 06 Feb 2016 02:22:15 GMT</pubDate>
+            <pubDate>Sat, 06 Feb 2016 02:38:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
